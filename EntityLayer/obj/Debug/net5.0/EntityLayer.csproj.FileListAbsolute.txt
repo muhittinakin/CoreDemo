@@ -1,0 +1,12 @@
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\bim9\Desktop\Asp.Net Core\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
